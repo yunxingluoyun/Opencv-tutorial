@@ -3,7 +3,7 @@
 
 [Opencv-tutorial/2.图像读取，显示，保存，属性，转换.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/2.图像读取，显示，保存，属性，转换.md)
 
-[Opencv-tutorial/3.OpenCV中的绘图函数.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/3.OpenCV\ 中的绘图函数.md)
+[Opencv-tutorial/3.OpenCV中的绘图函数.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/3.OpenCV中的绘图函数.md)
 
 [Opencv-tutorial/4.图像基础操作.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/4.图像基础操作.md)
 
@@ -15,7 +15,7 @@
 
 [Opencv-tutorial/8.图像去噪（图像平滑）.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/8.图像去噪（图像平滑）.md)
 
-[Opencv-tutorial/9.图像梯度与Canny 边缘检测.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/9.图像梯度与Canny\ 边缘检测.md)
+[Opencv-tutorial/9.图像梯度与Canny 边缘检测.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/9.图像梯度与Canny边缘检测.md)
 
 [Opencv-tutorial/10.形态学操作.md](https://github.com/yunxingluoyun/Opencv-tutorial/blob/main/10.形态学操作.md)
 
